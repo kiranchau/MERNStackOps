@@ -1,2 +1,0 @@
-# MERNStackOps
-MERNStackOps
